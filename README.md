@@ -61,6 +61,9 @@
 - [ ] 9.可能发生隐式类型转换的场景以及转换原则，应如何避免或巧妙应用
 - [ ] 10.出现小数精度丢失的原因，JavaScript可以存储的最大数字、最大安全数字，JavaScript处理大数字的方法、避免精度丢失的方法
 
+学习与总结：
+- [JavaScript中的数据类型](https://github.com/Bulandent/blog/issues/3)
+
 ### 原型和原型链 [⬆](#目录)
 - [ ] 1.理解原型设计模式以及JavaScript中的原型规则
 - [ ] 2.instanceof的底层实现原理，手动实现一个instanceof
