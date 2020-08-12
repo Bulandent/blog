@@ -218,6 +218,9 @@
 - [ ] 4.Node的底层运行原理、和浏览器的异同
 - [ ] 5.Node事件驱动、非阻塞机制的实现原理
 
+学习与总结：
+- [使用nvm来管理Node版本](https://github.com/Bulandent/blog/issues/5)
+
 ## 六、框架和类库
 ### TypeScript [⬆](#目录)
 - [ ] 1.理解泛型、接口等面向对象的相关概念，TypeScript对面向对象理念的实现
