@@ -5,6 +5,10 @@
 
 ![web_knowledge](https://bubuzou.oss-cn-shenzhen.aliyuncs.com/blog/202006/web_knowledge.png)
 
+
+也欢迎大家关注我的公众号：「大海我来了」，会经常更新前端干货文章。
+![gzh](https://bubuzou.oss-cn-shenzhen.aliyuncs.com/blog/202009/gzh.png)
+
 # 目录
 - [一、JavaScript基础](#一JavaScript基础)
     - [变量和类型](#变量和类型-)
@@ -244,6 +248,9 @@
 - [ ] 3.Vue双向绑定实现原理、Diff算法的内部实现
 - [ ] 4.Vue的事件机制
 - [ ] 5.从template转换成真实DOM的实现机制
+
+学习与总结：
+- [34条我能告诉你的Vue之实操篇](https://github.com/Bulandent/blog/issues/6)
 
 ### 多端开发 [⬆](#目录)
 - [ ] 1.单页面应用（SPA）的原理和优缺点，掌握一种快速开发SPA的方案
