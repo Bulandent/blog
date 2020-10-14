@@ -169,6 +169,9 @@
 - [ ] 4.手写防抖和节流工具函数、并理解其内部原理和应用场景
 - [ ] 5.实现一个sleep函数
 
+学习与总结：
+- [详细设计一个文章页目录插件](https://github.com/Bulandent/blog/issues/7)
+
 ### 手动实现前端轮子 [⬆](#目录)
 - [ ] 1.手动实现call、apply、bind
 - [ ] 2.手动实现符合Promise/A+规范的Promise、手动实现async await
