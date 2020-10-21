@@ -128,6 +128,7 @@
 
 学习与总结：
 - [图解Flexbox](https://github.com/Bulandent/blog/issues/2)
+- [良好的CSS编码习惯](https://github.com/Bulandent/blog/issues/8)
 
 ### 手写 [⬆](#目录)
 - [ ] 1.手写图片瀑布流效果
