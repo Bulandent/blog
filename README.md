@@ -95,6 +95,9 @@
 - [ ] 6.Node与浏览器EventLoop的差异
 - [ ] 7.如何在保证页面运行流畅的情况下处理海量数据
 
+学习与总结：
+- [深入理解Promise](https://github.com/Bulandent/blog/issues/9)
+
 ### 语法和API [⬆](#目录)
 - [ ] 1.理解ECMAScript和JavaScript的关系
 - [ ] 2.熟练运用es5、es6提供的语法规范，
