@@ -107,6 +107,9 @@
 - [ ] 6.JavaScript提供的正则表达式API、可以使用正则表达式（邮箱校验、URL解析、去重等）解决常见问题
 - [ ] 7.JavaScript异常处理的方式，统一的异常处理方案
 
+学习与总结：
+- [送你一份精心总结的3万字ES6实用指南（全）](https://github.com/Bulandent/blog/issues/10)
+
 ## 二、HTML和CSS
 ### HTML [⬆](#目录)
 - [ ] 1.从规范的角度理解HTML，从分类和语义的角度使用标签
