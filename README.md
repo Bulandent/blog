@@ -240,6 +240,11 @@
 - [ ] 8.浏览器提供的几种存储机制、优缺点、开发中正确的选择
 - [ ] 9.浏览器跨标签通信
 
+学习与总结：
+
+- [浏览器专题之事件机制](https://github.com/Bulandent/blog/issues/13)
+- [浏览器专题之本地存储](https://github.com/Bulandent/blog/issues/15)
+
 ### 浏览器原理 [⬆](#目录)
 
 - [ ] 1.各浏览器使用的JavaScript引擎以及它们的异同点、如何在代码中进行区分
@@ -256,6 +261,7 @@
 学习与总结：
 
 - [浏览器专题之缓存篇](https://github.com/Bulandent/blog/issues/12)
+- [从输入url到页面显示发生了什么](https://github.com/Bulandent/blog/issues/14)
 
 ### Node [⬆](#目录)
 
@@ -405,3 +411,7 @@
 - [ ] 1.XSS攻击的原理、分类、具体案例，前端如何防御
 - [ ] 2.CSRF攻击的原理、具体案例，前端如何防御
 - [ ] 3.HTTP劫持、页面劫持的原理、防御措施
+
+学习与总结：
+
+- [浏览器专题之安全篇](https://github.com/Bulandent/blog/issues/16)
