@@ -406,6 +406,10 @@
 - [ ] 6.Canvas性能优化方案
 - [ ] 7.React、Vue等框架使用性能优化方案
 
+学习与总结：
+
+- [jpg、gif、png和svg用于web上，我们该如何选择最合适的图像格式？](https://github.com/Bulandent/blog/issues/17)
+
 ### 前端安全 [⬆](#目录)
 
 - [ ] 1.XSS攻击的原理、分类、具体案例，前端如何防御
