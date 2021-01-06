@@ -262,6 +262,7 @@
 
 - [浏览器专题之缓存篇](https://github.com/Bulandent/blog/issues/12)
 - [从输入url到页面显示发生了什么](https://github.com/Bulandent/blog/issues/14)
+- [探究网页资源究竟是如何阻塞浏览器加载的](https://github.com/Bulandent/blog/issues/18)
 
 ### Node [⬆](#目录)
 
