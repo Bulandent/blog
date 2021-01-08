@@ -244,6 +244,7 @@
 
 - [浏览器专题之事件机制](https://github.com/Bulandent/blog/issues/13)
 - [浏览器专题之本地存储](https://github.com/Bulandent/blog/issues/15)
+- [Web Worker 综述](https://github.com/Bulandent/blog/issues/19)
 
 ### 浏览器原理 [⬆](#目录)
 
