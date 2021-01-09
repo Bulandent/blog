@@ -131,6 +131,10 @@
 - [ ] 4.HTML5离线缓存原理
 - [ ] 5.可以使用Canvas API、SVG等绘制高性能的动画
 
+学习与总结：
+
+- [preload、prefetch、preconnect 和 dns-prefetch 知多少](https://github.com/Bulandent/blog/issues/20)
+
 ### CSS [⬆](#目录)
 
 - [ ] 1.CSS盒模型，在不同浏览器的差异
