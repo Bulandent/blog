@@ -120,6 +120,7 @@
 学习与总结：
 
 - [送你一份精心总结的3万字ES6实用指南（全）](https://github.com/Bulandent/blog/issues/10)
+- [让人爱不释手的 JS 扩展操作符 13 用](https://github.com/Bulandent/blog/issues/23)
 
 ## 二、HTML和CSS
 
