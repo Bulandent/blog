@@ -419,6 +419,7 @@
 
 - [jpg、gif、png和svg用于web上，我们该如何选择最合适的图像格式？](https://github.com/Bulandent/blog/issues/17)
 - [为你的网站加上 WebP 格式的图片吧](https://github.com/Bulandent/blog/issues/24)
+- [2分钟了解下一代图片压缩格式 AVIF](https://github.com/Bulandent/blog/issues/25)
 
 ### 前端安全 [⬆](#目录)
 
