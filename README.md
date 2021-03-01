@@ -182,6 +182,10 @@
 - [ ] 9.HTTPS的加密原理，如何开启HTTPS，如何劫持HTTPS请求
 - [ ] 10.理解WebSocket协议的底层原理、与HTTP的区别
 
+学习与总结：
+
+- [6 分钟了解 HTTP 发展史](https://github.com/Bulandent/blog/issues/26)
+
 ### 设计模式 [⬆](#目录)
 
 - [ ] 1.熟练使用前端常用的设计模式编写代码，如单例模式、装饰器模式、代理模式等
