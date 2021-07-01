@@ -321,6 +321,7 @@
 - [基于Vue的Jest单元测试入门与实践](https://github.com/Bulandent/blog/issues/11)
 - [如何做到发送一次请求上传多个文件（使用 el-upload）](https://github.com/Bulandent/blog/issues/21)
 - [vue-quill-editor插入图片路径太长问题解决](https://github.com/Bulandent/blog/issues/22)
+- [从 ESLint 开始，说透我如何在团队项目中基于 Vue 做代码校验](https://github.com/Bulandent/blog/issues/30)
 
 ### 多端开发 [⬆](#目录)
 
