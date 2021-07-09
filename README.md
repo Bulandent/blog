@@ -321,7 +321,6 @@
 - [基于Vue的Jest单元测试入门与实践](https://github.com/Bulandent/blog/issues/11)
 - [如何做到发送一次请求上传多个文件（使用 el-upload）](https://github.com/Bulandent/blog/issues/21)
 - [vue-quill-editor插入图片路径太长问题解决](https://github.com/Bulandent/blog/issues/22)
-- [从 ESLint 开始，说透我如何在团队项目中基于 Vue 做代码校验](https://github.com/Bulandent/blog/issues/30)
 
 ### 多端开发 [⬆](#目录)
 
@@ -372,6 +371,10 @@
 - [ ] 6.可以配置一种前端代码兼容方案，如Polyfill
 - [ ] 7.Webpack的编译原理、构建流程、热更新原理，chunk、bundle和module的区别和应用
 - [ ] 8.可熟练配置已有的loaders和plugins解决问题，可以自己编写loaders和plugins
+
+学习与总结：
+
+- [从 ESLint 开始，说透我如何在团队项目中基于 Vue 做代码校验](https://github.com/Bulandent/blog/issues/29)
 
 ### nginx [⬆](#目录)
 
