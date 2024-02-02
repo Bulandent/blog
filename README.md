@@ -296,6 +296,10 @@
 - [ ] 3.TypeScript的规则检测原理
 - [ ] 4.可以在React、Vue等框架中使用TypeScript进行开发
 
+学习与总结：
+ 
+- [深入学习TypeScript类型体操](https://github.com/Bulandent/blog/issues/31)
+
 ### React [⬆](#目录)
 
 - [ ] 1.React和vue选型和优缺点、核心架构的区别
