@@ -434,6 +434,7 @@
 - [preload、prefetch、preconnect 和 dns-prefetch 知多少](https://github.com/Bulandent/blog/issues/20)
 - [为你的网站加上 WebP 格式的图片吧](https://github.com/Bulandent/blog/issues/24)
 - [2分钟了解下一代图片压缩格式 AVIF](https://github.com/Bulandent/blog/issues/25)
+- [微前端的几种架构介绍](https://github.com/Bulandent/blog/issues/32)
 
 ### 前端安全 [⬆](#目录)
 
